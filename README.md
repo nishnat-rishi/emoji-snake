@@ -1,5 +1,5 @@
 # Emoji Snake
-![alt text](https://s5.gifyu.com/images/emoji_snake.gif "emoji-snake.gif")
+![alt text](https://s5.gifyu.com/images/emoji_snake-act.gif "emoji-snake.gif")
 
 Quickly hacked together during exam season! (very unclean code!)
 
