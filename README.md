@@ -1,5 +1,5 @@
 # Emoji Snake
-Designed in a few hours during exam season to relieve stress!
+Quickly hacked together during exam season! (very unclean code!)
 
 ## Salient features
 - Game state is not updated every frame. Only happens when a change is registered (emoji consumed, movement expected).
