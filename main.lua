@@ -1,5 +1,5 @@
 function love.load()
-  arena_size = 11
+  arena_size = 8
   pixel_size = 60
   love.window.setMode(pixel_size * arena_size, pixel_size * arena_size)
   love.window.setTitle('Emoji Snake')
